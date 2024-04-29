@@ -82,7 +82,7 @@ export const BtnList = [
  
   {
     label: "Resume",
-    link: "https://brown-lyndell-45.tiiny.site/",
+    link: "https://orange-martha-85.tiiny.site/",
     icon: "resume",
     newTab: true,
   },
